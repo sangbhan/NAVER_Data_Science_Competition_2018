@@ -1,1 +1,1 @@
-# NAVER_Data_Science_Competition_2018
+# NAVER Data Science Competition 2018
