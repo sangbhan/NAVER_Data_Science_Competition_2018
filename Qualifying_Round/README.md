@@ -8,6 +8,6 @@ I downloaded "Breast Cancer Wisconsin (Diagnostic) Data Set" from <https://www.k
 
 The dataset contains data of 569 breast tumor tissues.
 
-My neural network gets 30 characteristics of cell nucleus of breast tumor tissues and computes malignant tumor score and benign tumor score.
+My neural network takes in 30 characteristics of cell nuclei of the breast tumor tissues and computes malignant tumor score and benign tumor score.
 
 ![](https://github.com/sangbhan/NAVER_Data_Science_Competition_2018/blob/master/Qualifying_Round/DNN%20architecture.png)
